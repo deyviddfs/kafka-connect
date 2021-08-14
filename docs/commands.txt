@@ -1,0 +1,2 @@
+Comando gerar imagem docker: docker build -f connect_tdc.dockerfile -t deyvidsilva/connect-tdc2021 .
+Comando acessar container: docker exec -it connect /bin/bash
