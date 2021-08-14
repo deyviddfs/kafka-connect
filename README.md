@@ -2,7 +2,7 @@
 
 Descrição
 =================
-<p align="center">Exemplo de implementação de disponibilização da infra estrutura e criação de um componente utilizando Kafka Connect</p>
+<p align="center">Exemplo de disponibilização da infra estrutura e criação de um componente utilizando Kafka Connect</p>
 
 <p align="center">
   <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/deyviddfs/kafka-connect/main">
